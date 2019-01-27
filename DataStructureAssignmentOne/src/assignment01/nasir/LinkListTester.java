@@ -21,7 +21,6 @@ public class LinkListTester {
 		SingleLinkList.Node<String> h1=null;
 		//h.setNext(student);
 		student.swapNodes(h, h1);
-
 	}
 
 }
