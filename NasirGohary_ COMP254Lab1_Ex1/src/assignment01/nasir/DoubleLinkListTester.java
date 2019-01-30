@@ -12,7 +12,7 @@ public class DoubleLinkListTester {
 		doublyListM.addLast("Node05");
 		System.out.println("This is the double linked list M :");
 		doublyListM.showDoublyLinkedList();
-		System.out.println("The size of the list L is " + doublyListM.size()+ " now.");
+		System.out.println("The size of the list M is " + doublyListM.size()+ " now.");
 		System.out.println();
 		//bu.showDoublyLinkedListReverse();
 		
@@ -20,7 +20,7 @@ public class DoubleLinkListTester {
 		doublListL.addLast("Node06");
 		doublListL.addLast("Node07");
 		doublListL.addLast("Node08");
-		System.out.println("This is the double linked list M:");
+		System.out.println("This is the double linked list L:");
 		doublListL.showDoublyLinkedList();
 		
 		System.out.println();
